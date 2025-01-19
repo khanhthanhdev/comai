@@ -55,7 +55,8 @@ export async function POST(req: Request) {
       for await (const chunk of completionStream) {
         const text = chunk.choices[0].delta.content; // Adjust based on the response format
         if (text) {
-          controller.enqueue(text);
+          const encoder = new TextEncoder();
+          controller.enqueue(encoder.encode(text));
         }
       }
       controller.close();
