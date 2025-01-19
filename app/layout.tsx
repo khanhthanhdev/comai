@@ -6,9 +6,9 @@ import {
 
 let title = "ShadCn Component Generator";
 let description = "Generate React Components with AI";
-let url = "https://reactai.vasarai.net/";
-let ogimage = "https://reactai.vasarai.net/og-image.png";
-let sitename = "ReactAI";
+let url = "https://instantcode.vercel.app/";
+let ogimage = "https://instantcode.vercel.app/og-image.png";
+let sitename = "InstantCode";
 
 export const metadata: Metadata = {
   metadataBase: new URL(url),

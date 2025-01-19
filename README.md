@@ -11,30 +11,30 @@
 
 ## Examples Demo generated using ReactAI
 
-- [Popup Modal](https://reactai.vasarai.net/share/_ajy9)
+- [Popup Modal](https://instantcode.vercel.app/share/_ajy9)
 
 ![popup modal](examples/gifs/popup-modal-reactai.gif)
 
-- [Newsletter Form](https://reactai.vasarai.net/share/qfhed)
+- [Newsletter Form](https://instantcode.vercel.app/share/qfhed)
 
 ![newsletter form](examples/gifs/newsletter-form-reactai.gif)
 
-- [Todo App](https://reactai.vasarai.net/share/nLQ1G)
+- [Todo App](https://instantcode.vercel.app/share/nLQ1G)
 
 ![todo app](examples/gifs/todo-app-reactai.gif)
 
-- [Counter App](https://reactai.vasarai.net/share/EGzfh)
+- [Counter App](https://instantcode.vercel.app/share/EGzfh)
 
 ![counter app](examples/gifs/counter-app-reactai.gif)
 
-- [Calculator App](https://reactai.vasarai.net/share/SNSb3)
+- [Calculator App](https://instantcode.vercel.app/share/SNSb3)
 
 ![calculator app](examples/gifs/calculator-app-reactai.gif)
 
-- [Image Generator](https://reactai.vasarai.net/share/gldbD)
+- [Image Generator](https://instantcode.vercel.app/share/gldbD)
 
 ![image generator](examples/gifs/image-generator-reactai.gif)
 
-- [Chat App](https://reactai.vasarai.net/share/450ym)
+- [Chat App](https://instantcode.vercel.app/share/450ym)
 
 ![chat app](examples/gifs/chat-app-reactai.gif)
