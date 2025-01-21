@@ -203,7 +203,7 @@ export default function Home() {
               value={prompt}
               disabled={loading}
               onChange={(e) => setPrompt(e.target.value)}
-              placeholder="Build me a contact form"
+              placeholder="Build me a calculator app"
               className="w-full h-12 pr-32 text-lg disabled:opacity-75"
             />
             <Button

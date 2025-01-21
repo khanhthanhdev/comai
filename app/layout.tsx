@@ -4,6 +4,8 @@ import {
   ClerkProvider
 } from '@clerk/nextjs'
 
+import { Analytics } from "@vercel/analytics/react"
+
 let title = "ShadCn Component Generator";
 let description = "Generate React Components with AI";
 let url = "https://instantcode.vercel.app/";
@@ -41,6 +43,7 @@ export default function RootLayout({
 }>) {
   return (
     <ClerkProvider>
+    <Analytics />
     <html lang="en" className="h-full">
       <head></head>
       <body className="">
